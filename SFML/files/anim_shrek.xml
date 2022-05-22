@@ -1,0 +1,21 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Shrek.png" transparentColor="">
+ <animation title="stay" delay="150">
+  <cut w="23" x="164" y="2" h="29" row="1" col="1"/>
+ </animation>
+ <animation title="walk" delay="150">
+  <cut w="23" x="164" y="2" h="29" row="1" col="1"/>
+  <cut w="33" x="159" y="41" h="32" row="1" col="1"/>
+  <cut w="31" x="161" y="83" h="31" row="1" col="1"/>
+  <cut w="25" x="164" y="122" h="30" row="1" col="1"/>
+  <cut w="25" x="162" y="165" h="27" row="1" col="1"/>
+ </animation>
+ <animation title="shoot" delay="150">
+  <cut w="23" x="164" y="2" h="29" row="1" col="1"/>
+ </animation>
+ <animation title="hit" delay="150">
+  <cut w="26" x="69" y="2" h="32" row="1" col="1"/>
+  <cut w="18" x="122" y="2" h="32" row="1" col="1"/>
+  <cut w="23" x="164" y="2" h="29" row="1" col="1"/>
+ </animation>
+</sprites>

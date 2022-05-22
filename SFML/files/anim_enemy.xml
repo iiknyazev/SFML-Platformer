@@ -1,0 +1,29 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="enemy's animation.png" transparentColor="">
+ <animation title="move" delay="150">
+  <cut w="33" x="3" y="4" h="48" row="1" col="1"/>
+  <cut w="33" x="48" y="4" h="47" row="1" col="1"/>
+  <cut w="33" x="93" y="4" h="47" row="1" col="1"/>
+  <cut w="33" x="138" y="2" h="49" row="1" col="1"/>
+ </animation>
+ <animation title="dead" delay="150">
+  <cut w="33" x="3" y="52" h="50" row="1" col="1"/>
+  <cut w="36" x="93" y="59" h="43" row="1" col="1"/>
+  <cut w="37" x="138" y="59" h="43" row="1" col="1"/>
+  <cut w="33" x="48" y="60" h="42" row="1" col="1"/>
+  <cut w="38" x="3" y="110" h="43" row="1" col="1"/>
+  <cut w="40" x="48" y="111" h="42" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+  <cut w="29" x="93" y="135" h="18" row="1" col="1"/>
+ </animation>
+</sprites>
